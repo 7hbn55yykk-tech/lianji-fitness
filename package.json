@@ -1,0 +1,13 @@
+{
+  "name": "lianji-fitness",
+  "version": "1.1.0",
+  "private": true,
+  "description": "练迹单文件健身应用的开发测试；运行网页无需安装依赖",
+  "scripts": {
+    "test": "node --test tests/core.test.cjs tests/recipes.test.cjs",
+    "test:browser": "node --test tests/browser.test.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

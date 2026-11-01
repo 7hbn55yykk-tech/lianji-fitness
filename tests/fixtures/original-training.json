@@ -1,0 +1,2380 @@
+{
+  "exercises": {
+    "legpress": {
+      "name": "坐姿腿举",
+      "group": "腿臀",
+      "equipment": "坐姿腿举机",
+      "video": "https://www.bilibili.com/video/BV1Ep4y1o7n9/",
+      "bvid": "BV1Ep4y1o7n9",
+      "title": "臀腿动作教学｜坐姿腿举 LEG PRESS（保姆级教程）",
+      "author": "ALEX健身频道",
+      "cues": [
+        "先调座椅与安全限位，腰臀保持贴垫。",
+        "脚掌踩稳，膝盖沿脚尖方向移动，不猛锁膝。",
+        "以腰臀不卷离靠垫、膝部无痛的范围为准。"
+      ],
+      "checked": "2026-11-01",
+      "verification": "已核对公开页面标题与动作对应；未逐段审看或实测全片播放。"
+    },
+    "chest": {
+      "name": "坐姿器械推胸",
+      "group": "胸部",
+      "equipment": "推胸机",
+      "video": "https://www.bilibili.com/video/BV1cUevzTEb4/",
+      "bvid": "BV1cUevzTEb4",
+      "title": "坐姿器械推胸详解",
+      "author": "凯圣王",
+      "cues": [
+        "调座椅，使把手大致在胸中部高度。",
+        "手腕保持稳定，背部靠垫，推起与回程都可控。",
+        "不耸肩、不猛弹回；肩部刺痛时停止。"
+      ],
+      "checked": "2026-11-01",
+      "verification": "已核对公开页面标题与动作对应；未逐段审看或实测全片播放。"
+    },
+    "lat": {
+      "name": "高位下拉",
+      "group": "背部",
+      "equipment": "高位下拉机",
+      "video": "https://www.bilibili.com/video/BV1dC4y1r7nQ/",
+      "bvid": "BV1dC4y1r7nQ",
+      "title": "高位下拉详解",
+      "author": "凯圣王",
+      "cues": [
+        "固定大腿压垫，选择舒服的正握握距。",
+        "躯干保持稳定，肘向身体两侧下拉，不用身体甩动。",
+        "拉向上胸方向，不做颈后下拉；还原时控制。"
+      ],
+      "checked": "2026-11-01",
+      "verification": "已核对公开页面标题与动作对应；未逐段审看或实测全片播放。"
+    },
+    "row": {
+      "name": "坐姿绳索划船",
+      "group": "背部",
+      "equipment": "绳索划船器",
+      "video": "https://www.bilibili.com/video/BV1UG411k7ZM/",
+      "bvid": "BV1UG411k7ZM",
+      "title": "坐姿划船详解",
+      "author": "凯圣王",
+      "cues": [
+        "脚踩稳，膝微屈，保持自然脊柱位置。",
+        "肘向后拉向腰侧，不用腰部来回猛甩。",
+        "回程让肩胛自然移动，保持可控。"
+      ],
+      "checked": "2026-11-01",
+      "verification": "已核对公开页面标题与动作对应；未逐段审看或实测全片播放。"
+    },
+    "legcurl": {
+      "name": "坐姿腿弯举",
+      "group": "腿臀",
+      "equipment": "坐姿腿弯举机",
+      "video": "https://www.bilibili.com/video/BV17Z4y1X769/",
+      "bvid": "BV17Z4y1X769",
+      "title": "新手健身教学【坐姿腿弯举】动作讲解",
+      "author": "B站中文教学",
+      "cues": [
+        "膝关节对准器械转轴，固定大腿压垫。",
+        "靠背坐稳，缓慢弯膝收起小腿，不抬臀。",
+        "无痛范围内完成，回程不让配重撞击。"
+      ],
+      "checked": "2026-11-01",
+      "verification": "已核对公开页面标题与动作对应；未逐段审看或实测全片播放。"
+    },
+    "face": {
+      "name": "绳索面拉",
+      "group": "肩部",
+      "equipment": "龙门架＋绳索",
+      "video": "https://www.bilibili.com/video/BV1wZ421e7K2/",
+      "bvid": "BV1wZ421e7K2",
+      "title": "绳索面拉详解",
+      "author": "凯圣王",
+      "cues": [
+        "绳索调到面部附近高度，从很轻的阻力开始。",
+        "拉向面部两侧，保持躯干稳定，不用下背后仰借力。",
+        "肩关节无痛优先，不为追求幅度强拗手腕。"
+      ],
+      "checked": "2026-11-01",
+      "verification": "已核对公开页面标题与动作对应；未逐段审看或实测全片播放。"
+    },
+    "smith": {
+      "name": "史密斯深蹲",
+      "group": "腿臀",
+      "equipment": "史密斯架",
+      "video": "https://www.bilibili.com/video/BV14x4y147Jw/",
+      "bvid": "BV14x4y147Jw",
+      "title": "史密斯深蹲详解",
+      "author": "凯圣王",
+      "cues": [
+        "首次请现场教练确认站位、挂钩与安全挡位。",
+        "从空杆或轻负重开始；膝沿脚尖方向移动。",
+        "只蹲到能保持稳定和无痛的深度，不强压到底。"
+      ],
+      "checked": "2026-11-01",
+      "verification": "已核对公开页面标题与动作对应；未逐段审看或实测全片播放。"
+    },
+    "incline": {
+      "name": "上斜哑铃卧推",
+      "group": "胸部",
+      "equipment": "哑铃＋上斜凳",
+      "video": "https://www.bilibili.com/video/BV1aa4y1o7XA/",
+      "bvid": "BV1aa4y1o7XA",
+      "title": "上斜哑铃卧推详解",
+      "author": "凯圣王",
+      "cues": [
+        "凳背先设约15–30°，根据舒适度调整。",
+        "脚踩稳，哑铃受控下放，前臂大致保持竖直。",
+        "拿起与放下也要可控；无保护时不做极限重量。"
+      ],
+      "checked": "2026-11-01",
+      "verification": "已核对公开页面标题与动作对应；未逐段审看或实测全片播放。",
+      "loadLabel": "单只哑铃 kg"
+    },
+    "lateral": {
+      "name": "哑铃侧平举",
+      "group": "肩部",
+      "equipment": "哑铃",
+      "video": "https://www.bilibili.com/video/BV1UN41157u9/",
+      "bvid": "BV1UN41157u9",
+      "title": "哑铃侧平举详解",
+      "author": "凯圣王",
+      "cues": [
+        "从轻哑铃开始，肘保持自然微屈。",
+        "向身体两侧略前方抬起，舒服范围内接近肩高即可。",
+        "不靠甩腰抢次数，缓慢还原。"
+      ],
+      "checked": "2026-11-01",
+      "verification": "已核对公开页面标题与动作对应；未逐段审看或实测全片播放。",
+      "loadLabel": "单只哑铃 kg"
+    },
+    "biceps": {
+      "name": "哑铃二头弯举",
+      "group": "手臂",
+      "equipment": "哑铃",
+      "video": "https://www.bilibili.com/video/BV1Fp4y1d73D/",
+      "bvid": "BV1Fp4y1d73D",
+      "title": "哑铃弯举详解",
+      "author": "凯圣王",
+      "cues": [
+        "手腕保持稳定，肘部尽量不前后甩动。",
+        "弯起时躯干不借力后仰，回程缓慢。",
+        "每侧各完成规定次数；记录单只哑铃重量。"
+      ],
+      "checked": "2026-11-01",
+      "verification": "已核对公开页面标题与动作对应；未逐段审看或实测全片播放。",
+      "loadLabel": "单只哑铃 kg",
+      "perSide": true
+    },
+    "extension": {
+      "name": "坐姿腿屈伸",
+      "group": "腿臀",
+      "equipment": "腿屈伸机",
+      "video": "https://www.bilibili.com/video/BV1Pj411y7fy/",
+      "bvid": "BV1Pj411y7fy",
+      "title": "健身动作指南｜坐姿腿屈伸（超详细教程）",
+      "author": "ALEX健身频道",
+      "cues": [
+        "膝关节对准转轴，滚垫置于小腿下端合适位置。",
+        "稳定靠背，缓慢伸膝，不弹震或猛锁死。",
+        "膝部不适时减小负重与范围，仍痛则暂停。"
+      ],
+      "checked": "2026-11-01",
+      "verification": "已核对公开页面标题与动作对应；未逐段审看或实测全片播放。"
+    },
+    "glute": {
+      "name": "臀桥",
+      "group": "腿臀",
+      "equipment": "瑜伽垫／臀桥设备",
+      "video": "https://www.bilibili.com/video/BV1Sh4y1u7Za/",
+      "bvid": "BV1Sh4y1u7Za",
+      "title": "翘臀不粗腿｜臀桥教学｜改善臀部凹陷",
+      "author": "ALEX健身频道",
+      "cues": [
+        "先练地面自重版本，脚踩稳，肋骨不过度外翻。",
+        "由臀部发力抬髋，不用下背过度反弓顶起。",
+        "顶端短暂停顿后缓慢落下；先确认动作再加重。"
+      ],
+      "checked": "2026-11-01",
+      "verification": "已核对公开页面标题与动作对应；未逐段审看或实测全片播放。",
+      "bodyweight": true,
+      "loadLabel": "额外负重 kg"
+    },
+    "deadbug": {
+      "name": "死虫式",
+      "group": "核心",
+      "equipment": "瑜伽垫",
+      "video": "https://www.bilibili.com/video/BV1p44y1Y7sq/",
+      "bvid": "BV1p44y1Y7sq",
+      "title": "拳击手核心激活动作——死虫式要点讲解",
+      "author": "运动教学君",
+      "cues": [
+        "仰卧屈髋屈膝，腹部轻收紧，保持呼吸。",
+        "对侧手脚缓慢伸展，腰部不失去控制。",
+        "先缩小伸展距离；规定次数按每侧计算。"
+      ],
+      "checked": "2026-11-01",
+      "verification": "已核对公开页面标题与动作对应；未逐段审看或实测全片播放。",
+      "bodyweight": true,
+      "perSide": true
+    },
+    "triceps": {
+      "name": "绳索三头下压",
+      "group": "手臂",
+      "equipment": "龙门架＋绳索",
+      "video": "https://www.bilibili.com/video/BV1Q441137GZ/",
+      "bvid": "BV1Q441137GZ",
+      "title": "瘦手臂动作详解｜三头绳索下压｜新手如何选择重量",
+      "author": "B站中文教学",
+      "cues": [
+        "上臂靠近身体，肘部稳定，使用轻阻力起步。",
+        "以伸肘下压绳索，不用全身重量向下压。",
+        "缓慢回程，不耸肩。视频标题中的局部瘦身说法不作为本计划依据。"
+      ],
+      "checked": "2026-11-01",
+      "verification": "已核对公开页面标题与动作对应；未逐段审看或实测全片播放。"
+    },
+    "shoulder": {
+      "name": "坐姿哑铃推肩",
+      "group": "肩部",
+      "equipment": "哑铃＋靠背凳",
+      "video": "https://www.bilibili.com/video/BV1uw411N7MC/",
+      "bvid": "BV1uw411N7MC",
+      "title": "坐姿哑铃推肩详解",
+      "author": "凯圣王",
+      "cues": [
+        "坐稳靠背，从轻重量开始，肘略在身体前方。",
+        "手腕稳定，向上推起时不靠腰椎后仰。",
+        "只在肩关节无痛的范围练，必要时请教练检查。"
+      ],
+      "checked": "2026-11-01",
+      "verification": "已核对公开页面标题与动作对应；未逐段审看或实测全片播放。",
+      "loadLabel": "单只哑铃 kg"
+    },
+    "plank": {
+      "name": "平板支撑",
+      "group": "核心",
+      "equipment": "瑜伽垫",
+      "video": "https://www.bilibili.com/video/BV14w411V7Yj/",
+      "bvid": "BV14w411V7Yj",
+      "title": "平板支撑详解",
+      "author": "凯圣王",
+      "cues": [
+        "肘大致在肩下，躯干保持一条自然直线。",
+        "腹臀收紧并正常呼吸，不塌腰、不憋气。",
+        "先做短时间高质量支撑；变形就结束。"
+      ],
+      "checked": "2026-11-01",
+      "verification": "已核对公开页面标题与动作对应；未逐段审看或实测全片播放。",
+      "bodyweight": true,
+      "timed": true
+    },
+    "calf": {
+      "name": "站姿提踵",
+      "group": "腿臀",
+      "equipment": "固定支撑／提踵器",
+      "video": "https://www.bilibili.com/video/BV1xJ411P7s6/",
+      "bvid": "BV1xJ411P7s6",
+      "title": "567GO健身私教小课堂之《站姿提踵》",
+      "author": "567GO健身教练培训",
+      "cues": [
+        "扶稳固定支撑，从自重双脚版本开始。",
+        "缓慢踮起再落下，不用脚踝弹跳。",
+        "保持平衡，无痛范围内练习。"
+      ],
+      "checked": "2026-11-01",
+      "verification": "已核对公开页面标题与动作对应；未逐段审看或实测全片播放。",
+      "bodyweight": true,
+      "loadLabel": "额外负重 kg"
+    }
+  },
+  "plans": [
+    [
+      {
+        "id": "A",
+        "title": "全身训练 A",
+        "focus": "腿臀 · 胸部 · 背部 · 核心",
+        "minutes": "40–50",
+        "day": "周一",
+        "exercises": [
+          {
+            "id": "legpress",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "chest",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lat",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "legcurl",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 90
+          },
+          {
+            "id": "deadbug",
+            "sets": 2,
+            "min": 6,
+            "max": 8,
+            "rest": 60
+          }
+        ],
+        "key": "w1-0",
+        "week": 1,
+        "index": 0
+      },
+      {
+        "id": "B",
+        "title": "全身训练 B",
+        "focus": "腿臀 · 胸背 · 肩部",
+        "minutes": "40–50",
+        "day": "周四",
+        "exercises": [
+          {
+            "id": "glute",
+            "sets": 2,
+            "min": 10,
+            "max": 15,
+            "rest": 90
+          },
+          {
+            "id": "row",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "chest",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "legpress",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lateral",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "plank",
+            "sets": 2,
+            "min": 15,
+            "max": 30,
+            "rest": 60
+          }
+        ],
+        "key": "w1-1",
+        "week": 1,
+        "index": 1
+      }
+    ],
+    [
+      {
+        "id": "A",
+        "title": "全身训练 A",
+        "focus": "腿臀 · 胸部 · 背部 · 核心",
+        "minutes": "40–50",
+        "day": "周一",
+        "exercises": [
+          {
+            "id": "legpress",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "chest",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lat",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "legcurl",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 90
+          },
+          {
+            "id": "deadbug",
+            "sets": 2,
+            "min": 6,
+            "max": 8,
+            "rest": 60
+          }
+        ],
+        "key": "w2-0",
+        "week": 2,
+        "index": 0
+      },
+      {
+        "id": "B",
+        "title": "全身训练 B",
+        "focus": "腿臀 · 胸背 · 肩部",
+        "minutes": "40–50",
+        "day": "周四",
+        "exercises": [
+          {
+            "id": "glute",
+            "sets": 2,
+            "min": 10,
+            "max": 15,
+            "rest": 90
+          },
+          {
+            "id": "row",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "chest",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "legpress",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lateral",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "plank",
+            "sets": 2,
+            "min": 15,
+            "max": 30,
+            "rest": 60
+          }
+        ],
+        "key": "w2-1",
+        "week": 2,
+        "index": 1
+      }
+    ],
+    [
+      {
+        "id": "A",
+        "title": "全身训练 A",
+        "focus": "腿臀 · 胸部 · 背部 · 核心",
+        "minutes": "40–50",
+        "day": "周一",
+        "exercises": [
+          {
+            "id": "legpress",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "chest",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lat",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "legcurl",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 90
+          },
+          {
+            "id": "deadbug",
+            "sets": 2,
+            "min": 6,
+            "max": 8,
+            "rest": 60
+          }
+        ],
+        "key": "w3-0",
+        "week": 3,
+        "index": 0
+      },
+      {
+        "id": "B",
+        "title": "全身训练 B",
+        "focus": "腿臀 · 胸背 · 肩部",
+        "minutes": "40–50",
+        "day": "周三",
+        "exercises": [
+          {
+            "id": "glute",
+            "sets": 2,
+            "min": 10,
+            "max": 15,
+            "rest": 90
+          },
+          {
+            "id": "row",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "chest",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "legpress",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lateral",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "plank",
+            "sets": 2,
+            "min": 15,
+            "max": 30,
+            "rest": 60
+          }
+        ],
+        "key": "w3-1",
+        "week": 3,
+        "index": 1
+      },
+      {
+        "id": "A",
+        "title": "全身训练 A",
+        "focus": "腿臀 · 胸部 · 背部 · 核心",
+        "minutes": "40–50",
+        "day": "周五",
+        "exercises": [
+          {
+            "id": "legpress",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "chest",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lat",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "legcurl",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 90
+          },
+          {
+            "id": "deadbug",
+            "sets": 2,
+            "min": 6,
+            "max": 8,
+            "rest": 60
+          }
+        ],
+        "key": "w3-2",
+        "week": 3,
+        "index": 2
+      }
+    ],
+    [
+      {
+        "id": "B",
+        "title": "全身训练 B",
+        "focus": "腿臀 · 胸背 · 肩部",
+        "minutes": "40–50",
+        "day": "周一",
+        "exercises": [
+          {
+            "id": "glute",
+            "sets": 2,
+            "min": 10,
+            "max": 15,
+            "rest": 90
+          },
+          {
+            "id": "row",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "chest",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "legpress",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lateral",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "plank",
+            "sets": 2,
+            "min": 15,
+            "max": 30,
+            "rest": 60
+          }
+        ],
+        "key": "w4-0",
+        "week": 4,
+        "index": 0
+      },
+      {
+        "id": "A",
+        "title": "全身训练 A",
+        "focus": "腿臀 · 胸部 · 背部 · 核心",
+        "minutes": "40–50",
+        "day": "周三",
+        "exercises": [
+          {
+            "id": "legpress",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "chest",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lat",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "legcurl",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 90
+          },
+          {
+            "id": "deadbug",
+            "sets": 2,
+            "min": 6,
+            "max": 8,
+            "rest": 60
+          }
+        ],
+        "key": "w4-1",
+        "week": 4,
+        "index": 1
+      },
+      {
+        "id": "B",
+        "title": "全身训练 B",
+        "focus": "腿臀 · 胸背 · 肩部",
+        "minutes": "40–50",
+        "day": "周五",
+        "exercises": [
+          {
+            "id": "glute",
+            "sets": 2,
+            "min": 10,
+            "max": 15,
+            "rest": 90
+          },
+          {
+            "id": "row",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "chest",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "legpress",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lateral",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "plank",
+            "sets": 2,
+            "min": 15,
+            "max": 30,
+            "rest": 60
+          }
+        ],
+        "key": "w4-2",
+        "week": 4,
+        "index": 2
+      }
+    ],
+    [
+      {
+        "id": "U1",
+        "title": "上肢 A · 胸背基础",
+        "focus": "胸 · 背 · 肩 · 三头",
+        "minutes": "50–60",
+        "day": "周一",
+        "exercises": [
+          {
+            "id": "chest",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lat",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "row",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lateral",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "triceps",
+            "sets": 2,
+            "min": 10,
+            "max": 15,
+            "rest": 75
+          }
+        ],
+        "key": "w5-0",
+        "week": 5,
+        "index": 0
+      },
+      {
+        "id": "L1",
+        "title": "下肢 A · 蹲与核心",
+        "focus": "股四头 · 腘绳肌 · 小腿 · 核心",
+        "minutes": "45–60",
+        "day": "周二",
+        "exercises": [
+          {
+            "id": "smith",
+            "sets": 3,
+            "min": 8,
+            "max": 10,
+            "rest": 150
+          },
+          {
+            "id": "legcurl",
+            "sets": 3,
+            "min": 10,
+            "max": 12,
+            "rest": 90
+          },
+          {
+            "id": "extension",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 90
+          },
+          {
+            "id": "calf",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "deadbug",
+            "sets": 2,
+            "min": 6,
+            "max": 10,
+            "rest": 60
+          }
+        ],
+        "key": "w5-1",
+        "week": 5,
+        "index": 1
+      },
+      {
+        "id": "U2",
+        "title": "上肢 B · 胸肩塑形",
+        "focus": "上胸 · 背 · 肩 · 二头",
+        "minutes": "50–65",
+        "day": "周四",
+        "exercises": [
+          {
+            "id": "incline",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "row",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "shoulder",
+            "sets": 2,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lat",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "face",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "biceps",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 75
+          }
+        ],
+        "key": "w5-2",
+        "week": 5,
+        "index": 2
+      },
+      {
+        "id": "L2",
+        "title": "下肢 B · 臀腿稳定",
+        "focus": "臀 · 腿 · 小腿 · 核心",
+        "minutes": "45–55",
+        "day": "周六",
+        "exercises": [
+          {
+            "id": "legpress",
+            "sets": 3,
+            "min": 10,
+            "max": 12,
+            "rest": 150
+          },
+          {
+            "id": "glute",
+            "sets": 3,
+            "min": 10,
+            "max": 15,
+            "rest": 120
+          },
+          {
+            "id": "legcurl",
+            "sets": 2,
+            "min": 10,
+            "max": 15,
+            "rest": 90
+          },
+          {
+            "id": "calf",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "plank",
+            "sets": 2,
+            "min": 20,
+            "max": 40,
+            "rest": 60
+          }
+        ],
+        "key": "w5-3",
+        "week": 5,
+        "index": 3
+      }
+    ],
+    [
+      {
+        "id": "U1",
+        "title": "上肢 A · 胸背基础",
+        "focus": "胸 · 背 · 肩 · 三头",
+        "minutes": "50–60",
+        "day": "周一",
+        "exercises": [
+          {
+            "id": "chest",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lat",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "row",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lateral",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "triceps",
+            "sets": 2,
+            "min": 10,
+            "max": 15,
+            "rest": 75
+          }
+        ],
+        "key": "w6-0",
+        "week": 6,
+        "index": 0
+      },
+      {
+        "id": "L1",
+        "title": "下肢 A · 蹲与核心",
+        "focus": "股四头 · 腘绳肌 · 小腿 · 核心",
+        "minutes": "45–60",
+        "day": "周二",
+        "exercises": [
+          {
+            "id": "smith",
+            "sets": 3,
+            "min": 8,
+            "max": 10,
+            "rest": 150
+          },
+          {
+            "id": "legcurl",
+            "sets": 3,
+            "min": 10,
+            "max": 12,
+            "rest": 90
+          },
+          {
+            "id": "extension",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 90
+          },
+          {
+            "id": "calf",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "deadbug",
+            "sets": 2,
+            "min": 6,
+            "max": 10,
+            "rest": 60
+          }
+        ],
+        "key": "w6-1",
+        "week": 6,
+        "index": 1
+      },
+      {
+        "id": "U2",
+        "title": "上肢 B · 胸肩塑形",
+        "focus": "上胸 · 背 · 肩 · 二头",
+        "minutes": "50–65",
+        "day": "周四",
+        "exercises": [
+          {
+            "id": "incline",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "row",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "shoulder",
+            "sets": 2,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lat",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "face",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "biceps",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 75
+          }
+        ],
+        "key": "w6-2",
+        "week": 6,
+        "index": 2
+      },
+      {
+        "id": "L2",
+        "title": "下肢 B · 臀腿稳定",
+        "focus": "臀 · 腿 · 小腿 · 核心",
+        "minutes": "45–55",
+        "day": "周六",
+        "exercises": [
+          {
+            "id": "legpress",
+            "sets": 3,
+            "min": 10,
+            "max": 12,
+            "rest": 150
+          },
+          {
+            "id": "glute",
+            "sets": 3,
+            "min": 10,
+            "max": 15,
+            "rest": 120
+          },
+          {
+            "id": "legcurl",
+            "sets": 2,
+            "min": 10,
+            "max": 15,
+            "rest": 90
+          },
+          {
+            "id": "calf",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "plank",
+            "sets": 2,
+            "min": 20,
+            "max": 40,
+            "rest": 60
+          }
+        ],
+        "key": "w6-3",
+        "week": 6,
+        "index": 3
+      }
+    ],
+    [
+      {
+        "id": "U1",
+        "title": "上肢 A · 胸背基础",
+        "focus": "胸 · 背 · 肩 · 三头",
+        "minutes": "50–60",
+        "day": "周一",
+        "exercises": [
+          {
+            "id": "chest",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lat",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "row",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lateral",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "triceps",
+            "sets": 2,
+            "min": 10,
+            "max": 15,
+            "rest": 75
+          }
+        ],
+        "key": "w7-0",
+        "week": 7,
+        "index": 0
+      },
+      {
+        "id": "L1",
+        "title": "下肢 A · 蹲与核心",
+        "focus": "股四头 · 腘绳肌 · 小腿 · 核心",
+        "minutes": "45–60",
+        "day": "周二",
+        "exercises": [
+          {
+            "id": "smith",
+            "sets": 3,
+            "min": 8,
+            "max": 10,
+            "rest": 150
+          },
+          {
+            "id": "legcurl",
+            "sets": 3,
+            "min": 10,
+            "max": 12,
+            "rest": 90
+          },
+          {
+            "id": "extension",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 90
+          },
+          {
+            "id": "calf",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "deadbug",
+            "sets": 2,
+            "min": 6,
+            "max": 10,
+            "rest": 60
+          }
+        ],
+        "key": "w7-1",
+        "week": 7,
+        "index": 1
+      },
+      {
+        "id": "U2",
+        "title": "上肢 B · 胸肩塑形",
+        "focus": "上胸 · 背 · 肩 · 二头",
+        "minutes": "50–65",
+        "day": "周四",
+        "exercises": [
+          {
+            "id": "incline",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "row",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "shoulder",
+            "sets": 2,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lat",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "face",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "biceps",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 75
+          }
+        ],
+        "key": "w7-2",
+        "week": 7,
+        "index": 2
+      },
+      {
+        "id": "L2",
+        "title": "下肢 B · 臀腿稳定",
+        "focus": "臀 · 腿 · 小腿 · 核心",
+        "minutes": "45–55",
+        "day": "周六",
+        "exercises": [
+          {
+            "id": "legpress",
+            "sets": 3,
+            "min": 10,
+            "max": 12,
+            "rest": 150
+          },
+          {
+            "id": "glute",
+            "sets": 3,
+            "min": 10,
+            "max": 15,
+            "rest": 120
+          },
+          {
+            "id": "legcurl",
+            "sets": 2,
+            "min": 10,
+            "max": 15,
+            "rest": 90
+          },
+          {
+            "id": "calf",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "plank",
+            "sets": 2,
+            "min": 20,
+            "max": 40,
+            "rest": 60
+          }
+        ],
+        "key": "w7-3",
+        "week": 7,
+        "index": 3
+      }
+    ],
+    [
+      {
+        "id": "U1",
+        "title": "上肢 A · 胸背基础",
+        "focus": "胸 · 背 · 肩 · 三头",
+        "minutes": "50–60",
+        "day": "周一",
+        "exercises": [
+          {
+            "id": "chest",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lat",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "row",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lateral",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "triceps",
+            "sets": 2,
+            "min": 10,
+            "max": 15,
+            "rest": 75
+          }
+        ],
+        "key": "w8-0",
+        "week": 8,
+        "index": 0
+      },
+      {
+        "id": "L1",
+        "title": "下肢 A · 蹲与核心",
+        "focus": "股四头 · 腘绳肌 · 小腿 · 核心",
+        "minutes": "45–60",
+        "day": "周二",
+        "exercises": [
+          {
+            "id": "smith",
+            "sets": 3,
+            "min": 8,
+            "max": 10,
+            "rest": 150
+          },
+          {
+            "id": "legcurl",
+            "sets": 3,
+            "min": 10,
+            "max": 12,
+            "rest": 90
+          },
+          {
+            "id": "extension",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 90
+          },
+          {
+            "id": "calf",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "deadbug",
+            "sets": 2,
+            "min": 6,
+            "max": 10,
+            "rest": 60
+          }
+        ],
+        "key": "w8-1",
+        "week": 8,
+        "index": 1
+      },
+      {
+        "id": "U2",
+        "title": "上肢 B · 胸肩塑形",
+        "focus": "上胸 · 背 · 肩 · 二头",
+        "minutes": "50–65",
+        "day": "周四",
+        "exercises": [
+          {
+            "id": "incline",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "row",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "shoulder",
+            "sets": 2,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lat",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "face",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "biceps",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 75
+          }
+        ],
+        "key": "w8-2",
+        "week": 8,
+        "index": 2
+      },
+      {
+        "id": "L2",
+        "title": "下肢 B · 臀腿稳定",
+        "focus": "臀 · 腿 · 小腿 · 核心",
+        "minutes": "45–55",
+        "day": "周六",
+        "exercises": [
+          {
+            "id": "legpress",
+            "sets": 3,
+            "min": 10,
+            "max": 12,
+            "rest": 150
+          },
+          {
+            "id": "glute",
+            "sets": 3,
+            "min": 10,
+            "max": 15,
+            "rest": 120
+          },
+          {
+            "id": "legcurl",
+            "sets": 2,
+            "min": 10,
+            "max": 15,
+            "rest": 90
+          },
+          {
+            "id": "calf",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "plank",
+            "sets": 2,
+            "min": 20,
+            "max": 40,
+            "rest": 60
+          }
+        ],
+        "key": "w8-3",
+        "week": 8,
+        "index": 3
+      }
+    ],
+    [
+      {
+        "id": "U1",
+        "title": "上肢 A · 胸背基础",
+        "focus": "胸 · 背 · 肩 · 三头",
+        "minutes": "50–60",
+        "day": "周一",
+        "exercises": [
+          {
+            "id": "chest",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lat",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "row",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lateral",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "triceps",
+            "sets": 2,
+            "min": 10,
+            "max": 15,
+            "rest": 75
+          }
+        ],
+        "key": "w9-0",
+        "week": 9,
+        "index": 0
+      },
+      {
+        "id": "L1",
+        "title": "下肢 A · 蹲与核心",
+        "focus": "股四头 · 腘绳肌 · 小腿 · 核心",
+        "minutes": "45–60",
+        "day": "周二",
+        "exercises": [
+          {
+            "id": "smith",
+            "sets": 3,
+            "min": 8,
+            "max": 10,
+            "rest": 150
+          },
+          {
+            "id": "legcurl",
+            "sets": 3,
+            "min": 10,
+            "max": 12,
+            "rest": 90
+          },
+          {
+            "id": "extension",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 90
+          },
+          {
+            "id": "calf",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "deadbug",
+            "sets": 2,
+            "min": 6,
+            "max": 10,
+            "rest": 60
+          }
+        ],
+        "key": "w9-1",
+        "week": 9,
+        "index": 1
+      },
+      {
+        "id": "U2",
+        "title": "上肢 B · 胸肩塑形",
+        "focus": "上胸 · 背 · 肩 · 二头",
+        "minutes": "50–65",
+        "day": "周四",
+        "exercises": [
+          {
+            "id": "incline",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "row",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "shoulder",
+            "sets": 2,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lat",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "face",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "biceps",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 75
+          }
+        ],
+        "key": "w9-2",
+        "week": 9,
+        "index": 2
+      },
+      {
+        "id": "L2",
+        "title": "下肢 B · 臀腿稳定",
+        "focus": "臀 · 腿 · 小腿 · 核心",
+        "minutes": "45–55",
+        "day": "周六",
+        "exercises": [
+          {
+            "id": "legpress",
+            "sets": 3,
+            "min": 10,
+            "max": 12,
+            "rest": 150
+          },
+          {
+            "id": "glute",
+            "sets": 3,
+            "min": 10,
+            "max": 15,
+            "rest": 120
+          },
+          {
+            "id": "legcurl",
+            "sets": 2,
+            "min": 10,
+            "max": 15,
+            "rest": 90
+          },
+          {
+            "id": "calf",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "plank",
+            "sets": 2,
+            "min": 20,
+            "max": 40,
+            "rest": 60
+          }
+        ],
+        "key": "w9-3",
+        "week": 9,
+        "index": 3
+      }
+    ],
+    [
+      {
+        "id": "U1",
+        "title": "上肢 A · 胸背基础",
+        "focus": "胸 · 背 · 肩 · 三头",
+        "minutes": "50–60",
+        "day": "周一",
+        "exercises": [
+          {
+            "id": "chest",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lat",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "row",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lateral",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "triceps",
+            "sets": 2,
+            "min": 10,
+            "max": 15,
+            "rest": 75
+          }
+        ],
+        "key": "w10-0",
+        "week": 10,
+        "index": 0
+      },
+      {
+        "id": "L1",
+        "title": "下肢 A · 蹲与核心",
+        "focus": "股四头 · 腘绳肌 · 小腿 · 核心",
+        "minutes": "45–60",
+        "day": "周二",
+        "exercises": [
+          {
+            "id": "smith",
+            "sets": 3,
+            "min": 8,
+            "max": 10,
+            "rest": 150
+          },
+          {
+            "id": "legcurl",
+            "sets": 3,
+            "min": 10,
+            "max": 12,
+            "rest": 90
+          },
+          {
+            "id": "extension",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 90
+          },
+          {
+            "id": "calf",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "deadbug",
+            "sets": 2,
+            "min": 6,
+            "max": 10,
+            "rest": 60
+          }
+        ],
+        "key": "w10-1",
+        "week": 10,
+        "index": 1
+      },
+      {
+        "id": "U2",
+        "title": "上肢 B · 胸肩塑形",
+        "focus": "上胸 · 背 · 肩 · 二头",
+        "minutes": "50–65",
+        "day": "周四",
+        "exercises": [
+          {
+            "id": "incline",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "row",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "shoulder",
+            "sets": 2,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lat",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "face",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "biceps",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 75
+          }
+        ],
+        "key": "w10-2",
+        "week": 10,
+        "index": 2
+      },
+      {
+        "id": "L2",
+        "title": "下肢 B · 臀腿稳定",
+        "focus": "臀 · 腿 · 小腿 · 核心",
+        "minutes": "45–55",
+        "day": "周六",
+        "exercises": [
+          {
+            "id": "legpress",
+            "sets": 3,
+            "min": 10,
+            "max": 12,
+            "rest": 150
+          },
+          {
+            "id": "glute",
+            "sets": 3,
+            "min": 10,
+            "max": 15,
+            "rest": 120
+          },
+          {
+            "id": "legcurl",
+            "sets": 2,
+            "min": 10,
+            "max": 15,
+            "rest": 90
+          },
+          {
+            "id": "calf",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "plank",
+            "sets": 2,
+            "min": 20,
+            "max": 40,
+            "rest": 60
+          }
+        ],
+        "key": "w10-3",
+        "week": 10,
+        "index": 3
+      }
+    ],
+    [
+      {
+        "id": "U1",
+        "title": "上肢 A · 胸背基础",
+        "focus": "胸 · 背 · 肩 · 三头",
+        "minutes": "50–60",
+        "day": "周一",
+        "exercises": [
+          {
+            "id": "chest",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lat",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "row",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lateral",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "triceps",
+            "sets": 2,
+            "min": 10,
+            "max": 15,
+            "rest": 75
+          }
+        ],
+        "key": "w11-0",
+        "week": 11,
+        "index": 0
+      },
+      {
+        "id": "L1",
+        "title": "下肢 A · 蹲与核心",
+        "focus": "股四头 · 腘绳肌 · 小腿 · 核心",
+        "minutes": "45–60",
+        "day": "周二",
+        "exercises": [
+          {
+            "id": "smith",
+            "sets": 3,
+            "min": 8,
+            "max": 10,
+            "rest": 150
+          },
+          {
+            "id": "legcurl",
+            "sets": 3,
+            "min": 10,
+            "max": 12,
+            "rest": 90
+          },
+          {
+            "id": "extension",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 90
+          },
+          {
+            "id": "calf",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "deadbug",
+            "sets": 2,
+            "min": 6,
+            "max": 10,
+            "rest": 60
+          }
+        ],
+        "key": "w11-1",
+        "week": 11,
+        "index": 1
+      },
+      {
+        "id": "U2",
+        "title": "上肢 B · 胸肩塑形",
+        "focus": "上胸 · 背 · 肩 · 二头",
+        "minutes": "50–65",
+        "day": "周四",
+        "exercises": [
+          {
+            "id": "incline",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "row",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "shoulder",
+            "sets": 2,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lat",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "face",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "biceps",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 75
+          }
+        ],
+        "key": "w11-2",
+        "week": 11,
+        "index": 2
+      },
+      {
+        "id": "L2",
+        "title": "下肢 B · 臀腿稳定",
+        "focus": "臀 · 腿 · 小腿 · 核心",
+        "minutes": "45–55",
+        "day": "周六",
+        "exercises": [
+          {
+            "id": "legpress",
+            "sets": 3,
+            "min": 10,
+            "max": 12,
+            "rest": 150
+          },
+          {
+            "id": "glute",
+            "sets": 3,
+            "min": 10,
+            "max": 15,
+            "rest": 120
+          },
+          {
+            "id": "legcurl",
+            "sets": 2,
+            "min": 10,
+            "max": 15,
+            "rest": 90
+          },
+          {
+            "id": "calf",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "plank",
+            "sets": 2,
+            "min": 20,
+            "max": 40,
+            "rest": 60
+          }
+        ],
+        "key": "w11-3",
+        "week": 11,
+        "index": 3
+      }
+    ],
+    [
+      {
+        "id": "U1",
+        "title": "上肢 A · 胸背基础",
+        "focus": "胸 · 背 · 肩 · 三头",
+        "minutes": "50–60",
+        "day": "周一",
+        "exercises": [
+          {
+            "id": "chest",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lat",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "row",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lateral",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "triceps",
+            "sets": 2,
+            "min": 10,
+            "max": 15,
+            "rest": 75
+          }
+        ],
+        "key": "w12-0",
+        "week": 12,
+        "index": 0
+      },
+      {
+        "id": "L1",
+        "title": "下肢 A · 蹲与核心",
+        "focus": "股四头 · 腘绳肌 · 小腿 · 核心",
+        "minutes": "45–60",
+        "day": "周二",
+        "exercises": [
+          {
+            "id": "smith",
+            "sets": 3,
+            "min": 8,
+            "max": 10,
+            "rest": 150
+          },
+          {
+            "id": "legcurl",
+            "sets": 3,
+            "min": 10,
+            "max": 12,
+            "rest": 90
+          },
+          {
+            "id": "extension",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 90
+          },
+          {
+            "id": "calf",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "deadbug",
+            "sets": 2,
+            "min": 6,
+            "max": 10,
+            "rest": 60
+          }
+        ],
+        "key": "w12-1",
+        "week": 12,
+        "index": 1
+      },
+      {
+        "id": "U2",
+        "title": "上肢 B · 胸肩塑形",
+        "focus": "上胸 · 背 · 肩 · 二头",
+        "minutes": "50–65",
+        "day": "周四",
+        "exercises": [
+          {
+            "id": "incline",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "row",
+            "sets": 3,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "shoulder",
+            "sets": 2,
+            "min": 8,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "lat",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 120
+          },
+          {
+            "id": "face",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "biceps",
+            "sets": 2,
+            "min": 10,
+            "max": 12,
+            "rest": 75
+          }
+        ],
+        "key": "w12-2",
+        "week": 12,
+        "index": 2
+      },
+      {
+        "id": "L2",
+        "title": "下肢 B · 臀腿稳定",
+        "focus": "臀 · 腿 · 小腿 · 核心",
+        "minutes": "45–55",
+        "day": "周六",
+        "exercises": [
+          {
+            "id": "legpress",
+            "sets": 3,
+            "min": 10,
+            "max": 12,
+            "rest": 150
+          },
+          {
+            "id": "glute",
+            "sets": 3,
+            "min": 10,
+            "max": 15,
+            "rest": 120
+          },
+          {
+            "id": "legcurl",
+            "sets": 2,
+            "min": 10,
+            "max": 15,
+            "rest": 90
+          },
+          {
+            "id": "calf",
+            "sets": 2,
+            "min": 12,
+            "max": 15,
+            "rest": 75
+          },
+          {
+            "id": "plank",
+            "sets": 2,
+            "min": 20,
+            "max": 40,
+            "rest": 60
+          }
+        ],
+        "key": "w12-3",
+        "week": 12,
+        "index": 3
+      }
+    ]
+  ]
+}
